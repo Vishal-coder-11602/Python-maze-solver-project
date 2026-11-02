@@ -27,7 +27,7 @@ In this project aim is a maze in the form of matrix will be given in the form of
    Finally print the matrix of the order which contains 1 at the position obtained from the above process and contain 0 at other position. 
 
 ## How to run Maze solver
-   First import the github repo https://github.com/attainu/project-Vishal-coder-ui-au8 into visual studio code.  
+   First import the github repo https://github.com/attainu/project-Vishal-coder-11602 into visual studio code.  
    Project consist of 3 contents:-
    1) maze.py
    2) inputfile.txt
